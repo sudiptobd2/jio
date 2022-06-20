@@ -1,0 +1,1568 @@
+#EXTM3U
+
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
+
+#EXTINF:-1 group-title="TS HINDI Extra",STAR_BHARAT (IN)
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="TS HINDI Extra",STAR_PLUS (IN)
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="TS HINDI Extra",SONY_HD (IN)
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TS HINDI Extra",SONY_SAB (IN)
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",STAR BHARAT HD (IN)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",ZEE TV (UK)
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",ZEE TV HD (IN)
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8 
+#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8 
+#EXTINF:-1 tvg-id="UTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",STAR GOLD 2 (IN)
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",ZEE CINEMA HD (IN)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",ZEE ACTION (IN)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="SONY MAX 2" group-title="TS DIRECT-TV",SONY MAX 2 (IN)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="E24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",ZOOM (IN)
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",MTV (IN)
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS DIRECT-TV",MTV BEATS HD (IN)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="ZEE AFLAM (ME)" tvg-logo="AVvXsEh4IrEDAVKHW7vMO6a4_1chaEc3tOrVGLp7mev1WDieuMTG6cWBmaRJgY-ir5RH0LnzZO6HrwdvynZXyIjklh0i-OR-WjVbSZhiTYotuco76O6H3X6V3hTAgF8wOlDqMB-QUKYijLVfSuCQAaAureogPi5-71wbBen4gcG_I5pUU4OdVKuUH4QTgFyZSQ=s200" group-title="TS AKAMAI-TV",ZEE AFLAM (ME)
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="3 ABN KIDS (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",3 ABN KIDS (US)
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1 tvg-id="NASA TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",NASA TV (UK)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="MIRROR NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",MIRROR NOW (IN)
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 tvg-id="NEWS 18 INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",NEWS 18 INDIA (IN)
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",ABP NEWS (IN)
+https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",INDIA TV (IN)
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",NDTV INDIA (IN)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 tvg-id="NDTV 24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",NDTV 24X7 (IN)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="NDTV PROFIT (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",NDTV PROFIT (IN)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
+#EXTINF:-1 tvg-id="GNT (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",GNT (IN)
+https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",BLOOMBERG (UK)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="NEWS MAX (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",NEWS MAX (US)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="HBTV 1 (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",HBTV 1 (US)
+https://betamg-i.akamaihd.net/hls/live/513429/bettingtv/0_tklzcakd_1_2/chunklist.m3u8?Token=
+#EXTINF:-1 tvg-id="STC (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",STC (UK)
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8?Token=
+#EXTINF:-1 tvg-id="ET NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",ET NOW (IN)
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",CNBC TV 18 (IN)
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="CNBC AWAAZ (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="TS AKAMAI-TV",CNBC AWAAZ (IN)
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+
+#EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://s7.postimg.cc/4d7wl7b6j/Screenshot_20180516-053849_1.jpg" group-title="TS MULTI-TV",DD SPORTS (IN)
+https://idvd.multitvsolution.com:443/idvo/ddsports.m3u8
+#EXTINF:-1 tvg-id="IBC 24" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="TS MULTI-TV",IBC 24 (IN)
+https://idvd.multitvsolution.com:443/idvo/ibc24.m3u8
+#EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="TS MULTI-TV",DANGAL (IN)
+https://itvoign.multitvsolution.com/idvo/dangal.m3u8
+#EXTINF:-1 tvg-id="INDIA NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png" group-title="TS MULTI-TV",INDIA NEWS (IN)
+https://itvoign.multitvsolution.com/hls/inkhabar.m3u8
+#EXTINF:-1 tvg-id="DD KASHIR" tvg-logo="https://pbs.twimg.com/profile_images/1024987197932486656/E2JJfZuJ_400x400.jpg" group-title="TS MULTI-TV",DD KASHIR (IN)
+https://itvoign.multitvsolution.com/idvo/ddkashir.m3u8
+#EXTINF:-1 tvg-id="MANORANJAN TV" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Tt3HO3dS.png" group-title="TS MULTI-TV",MANORANJAN TV (IN)
+https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
+#EXTINF:-1 tvg-id="NEWS X" tvg-logo="https://newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="TS MULTI-TV",NEWS X (IN)
+https://itvoign.multitvsolution.com/hls/newsx.m3u8
+#EXTINF:-1 tvg-id="B4U KADAK" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png" group-title="TS MULTI-TV",B4U KADAK (IN)
+https://itvoign.multitvsolution.com/idvo/moviehouse.m3u8
+#EXTINF:-1 tvg-id="WOW CINEMA ONE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cC7fnk8i.png" group-title="TS MULTI-TV",WOW CINEMA ONE (IN)
+https://itvoign.multitvsolution.com/idvo/wowcinema.m3u8
+#EXTINF:-1 tvg-id="DD ASSAM" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zjXFFpZp.png"     group-title="TS MULTI-TV",DD ASSAM (IN)
+https://itvoign.multitvsolution.com/idvo/ddnortheast.m3u8
+#EXTINF:-1 tvg-id="BIXFLIX MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OzLvAT5S.png" group-title="TS MULTI-TV",BIXFLIX MOVIES (IN)
+https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
+#EXTINF:-1 tvg-id="MAHA MOVIE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dgk8ZJp1.png" group-title="TS MULTI-TV",MAHA MOVIE (IN)
+https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORKS",RASI TAMIL SAMAYAL COOKING LIFESTYLE
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/GTA-Tamil-Logo.png",GTA Tamil TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/adutha.webp",Adutha Thalaimurai
+http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/smstv.webp",SMS TV Tisaiyanvillai
+http://singamcloud.in:1935/smstvtsy/smstvtsy/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/rtv.webp",R TV Thirupathur
+http://singamcloud.in:1935/rtv/rtv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/160.png",Mullai HD
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/153.png",Udhyam TV Nagarcoil
+http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/152.png",VIP HD
+http://bmlive.net:8000/gtv/gtv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/125.png",Ladhee TV
+http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/124.png",SJS TV
+http://bmlive.net:8000/sjstv/sjstv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/111.png",Penguin TV
+http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/109.png",Vasanth TV
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/110.png",SMYRNA TV
+http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/89.png",Selfie TV
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local",TDCTO
+http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w422916913.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1622187910_yupp.png",Yupp Thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616431447_IBCisai.png",IBC Music
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616306258_yogaatv.png",Yogaa TV
+http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616318214_ttv.png",T TV
+http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616318402_perpole.png",Purple TV
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616318924_smcvtv.png",SMCV TV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616494049_abm.png",ABM TV
+http://singamcloud.in:1935/abmtv/abmtv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1618489114_sai_tv.png",SAI TV
+http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0016.jpg",PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/90.png",KL My TV
+http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (9).png",Thirumalai TV
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1618036009_poptv%20copy.jpg",POP TV
+http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616321019_hellotv.png",Hello TV
+http://stream.singamcloud.in:1935/hellotv/hellotv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616321508_vvn.png",VVN TV
+http://stream.singamcloud.in:1935/panchayathutv/panchayathutv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616429439_ROJATV.png",Roja TV
+http://stream.singamcloud.in:1935/rojatv/rojatv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616429873_msntv.png",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/29.png",CTN TV
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG88913.png",CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png",SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png",Sri Krishna TV(T.kode)
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93380.png",Surya TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1597395405_capitaldari.jpg",Capital Dharisanam
+http://89.187.162.89/Capital_Tharisanam/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1609587276_Musiclogo.png",Capital Music
+http://89.187.162.89/Capital_Music/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1609586495_capitalnews.png",Capital News
+http://89.187.162.89/Capital_NEWS/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1602588427_1597400963_capitelcopy.jpg",Capital TV
+http://89.187.162.89/Capital_TV-LIVE/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png",IBC Comedy
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-white.png",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png",IBC Tamil Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Jawahar-Channel.png",Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1622898529_IMG_20210605_183607.jpg",KBO Classic
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1622898474_IMG_20210605_183550.jpg",KBO Tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/79.png",N TV
+http://7starcloud.com:1935/ntv/live/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/LsacUVi.png",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/LsacUVi.png",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/FigDbPo.png",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1602589537_udhayamcopy.jpg",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://tavapi.inditechman.com/extras/images/jeyson.jpg",JJ MAX
+https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/ /main/extras/images/deepam.png",JEYSON TV
+https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (8).png",Aus Tamil tv
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0076.jpg",Faith tv
+http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201006-WA0001.jpg",Jeyam tv
+http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200810-WA0031.jpg",Kalvi cholai tv
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (6).jpeg",Life tv
+http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (30).png",Mk tv
+http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/images - 2020-05-10T075539.200.jpeg",News 7
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (92).jpeg",Puthiyathalamurai
+http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png",Tamilan tv
+http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/images - 2020-09-09T075805.305.jpeg",TVI
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/6GxuWXT.png",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/kKFfLMd.jpg",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://mntv.in/style/images/logo-dark.png",Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://www.moontvlive.com/images/logo.png",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif",VANAVIL
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/ABvVSga.png",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local",AKARAM Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png",Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://www.blessingtv.tv/images/all_images/14579702231.png",Aasirvadham TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538",Jaya TV HD
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest/scale-to-width-down/250?cb=20191224100831",Polimer
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg",Kalaignar Murasu
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://www.mycapitaltv.com/images/CapitalTVlogo.gif",Capital TV
+http://89.187.162.89:80/Capital_TV-LIVE/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://s3.amazonaws.com/playstore/images/814cf36cf2dca5a19a57b32c771e611e",IBC Tamil Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Shakthi_TV_logo.png",Shakthi TV
+http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Puthuyugam_TV.gif/220px-Puthuyugam_TV.gif",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif",Vaanavil TV
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg",Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chithiram_tv_logo.jpg",Kalaignar Chithiram
+http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng9O_jP6RX0EcVEzT18GnprkvAcwG4VvtXDCwEO=s88-c-k-c0x00ffffff-no-rj",Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Entertainment" tvg-logo="https://i.postimg.cc/Xv0tyJmw/newcanvas-1619840386422.png",Wins TV(Madura TV)
+http://bmlive.net:8000/WINS/winstv/bms.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Entertainment" tvg-logo="https://play-lh.googleusercontent.com/svGc_Z5HrkV891tSkXNRPKa0Y0JHBt6GqluN9AuHdOtv9PgryBuZZWxC7sK2CYmrFSo=s180-rw",Anandam UTV Madurai
+http://nextgeninfotech.ddns.net:8080/utv/utv.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Entertainment" tvg-logo="https://i.imgur.com/9J5HJuI.png",Vani TV HD
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Music" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Music" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",IBC Isai
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tamil International:Music" tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif",Capital Music
+http://89.187.162.89:80/Capital_Music/index.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Music" tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png",Isai Saral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Music" tvg-logo="https://i.postimg.cc/nz3JrNxx/sana.png",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Music" tvg-logo="https://i.postimg.cc/1tLbc03j/Screenshot-2021-05-26-08-06-06-167-com-singamcloud-cloudtamil-1622185986915.png",Sachin Music
+http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
+#EXTINF:-1 group-title="Tamil:HD LOCAL:Music" tvg-logo="https://i.postimg.cc/8cC2P039/Screenshot-2021-04-28-14-39-13-473-org-videolan-vlc-1619602042079.png",TDCTO (Apple Music)
+http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
+#EXTINF:-1 group-title="Tamil International:Devotional" tvg-logo="https://assets.ibcstack.com/web/1.0/img/services/bakthi.png",IBC Bakthi
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tamil International:Devotional" tvg-logo="http://www.mycapitaltv.com/images/Tharisanamlogo.gif",Capital Dharisanam
+http://89.187.162.89:80/Capital_Tharisanam/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/News_J.jpeg/revision/latest/scale-to-width-down/200?cb=20191226093118",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Tamil International:News" tvg-logo="http://www.mycapitaltv.com/images/bv05892.gif",Capital News
+http://89.187.162.89:80/Capital_NEWS/index.m3u8
+#EXTINF:-1 group-title="Tamil International:Kids" tvg-logo="https://assets.ibcstack.com/web/1.0/img/services/kids.png",IBC Kids
+https://tx1.ibctamil.tv/CDN_IBC_Kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1625737733_golden.png",Golden Gospel TV
+http://51.195.220.104:1935/goldengospeltv/goldengospeltv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1624991401_ashoka tv.png",Ashoka TV
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616435679_DD sports.png",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616435151_vasanth.png",Vasanth TV
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616431810_ibc kids.png",IBC KIDS
+https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616431568_IBC siluvai.png",IBC Siluvai
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616431352_IBC paki.png",IBC Bakthi
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616323761_jcmusic.png",JC Music
+http://stream.singamcloud.in:1935/jcmusic/jcmusic/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616323646_jctv.png",JC TV
+http://stream.singamcloud.in:1935/jctv/jctv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616322191_jtk.png",JTK TV
+http://stream.singamcloud.in:1935/jtktv/jtktv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
+http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616321229_my jesus.png",My jesus TV
+http://stream.singamcloud.in:1935/myjesustv/myjesustv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616320869_anu tv.png",Anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616319955_kirshna media.png",Krishna Media
+http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616319175_lucky tv.png",Lucky TV
+http://singamcloud.in:1935/luckytv/luckytv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616317832_et.png",ET NOW
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png",NEWS18 TAMILNADU
+http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616306017_jayam tv.png",Jayam Tv Madurai
+http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622645536_IMG_20210602_201956.jpg",TCV
+https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622638282_mytv.png",MY TV
+http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622286807_Kaumudy TV.png",Kaumudy
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622286601_kappa.png",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622285815_mano.png",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622285594_Kairali.png",Kairali
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622285476_Jaihind TV.png",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622285264_Flowers TV.png",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622285110_DD malayam.png",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622284673_janam tv copy.png",Jeevan tv
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622284492_Amrita TV.png",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622284368_ASINET.png",Asianet NEWS
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622225613_IMG_20210528_234254.jpg",Polimer Tv
+http://103.199.160.85:80/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622178257_satchin.png",Sachin Music HD
+http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622176085_tvi hd.png",TVI HD
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"",Bonus HD
+http://singamcloud.in:1935/bonushd/bonushd/playlist.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://madhimugam.com/wp-content/uploads/2020/02/MDM-LOGO-2.gif",Madhimugam Tv
+http://7starcloud.com:1935/madhimugamtv/madhimugamtv/playlist.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-black.png",Siripooli TV
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://i.imgur.com/IAl81AV.png",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://www.newsj.tv/assets/templates/ts_news247/images/presets/preset1/logo.png",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png",Kalaignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://www.mktelevision.com/images/logo.png",Mk TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/shakthi-tv-white.png",Sakthi TV
+http://uk1.zecast.com:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Vasantham2008.svg/revision/latest/scale-to-width-down/300?cb=20190810160718",Vasantham TV(Singapore)
+https://tglmp03.akamaized.net/out/v1/230bc7050839446b87c86268df536ab6/master.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Samsung_Logos_1845/Source/13064/TamilVision.png",TVI SD
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/120537591455517270-56c16e5608bd2.png",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Srisankara-tv-logo.png",Sankara TV
+http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="https://lh3.googleusercontent.com/2N9fLnYqenIV03igfzV00ZstC6GOKuLJpKynhqMEL_DksG4vTzRrJZvY2gJ9FKVE7Q",Nambikkai TV
+http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+#EXTINF:-1 group-title=""SnehSouth Local"" tvg-logo="http://7startv.in/astv.png",Asirvatham
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w517735769.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1623067878_jaya movie.png",jaya movie
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+#EXTINF:-1  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/puthuyugamtv-black.png",Pudhuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",VINMEEN TV
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",POLIMER TV
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",NEWS PLUS
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",TAMIL BLESSING TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MRN TV
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",NEEM TV
+http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",HARI MEDIA
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local",Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:-1 group-title="TSSouth Local",IBC Tamil
+https://5928f90056f31.streamlock.net/ibc-test/smil:ibc_tamiltv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TSSouth Local",Nethra TV
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616321696_izzath.png",IZZATH TV
+http://stream.singamcloud.in:1935/izzathtv/izzathtv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622282311_life tv.png",Life TV Plus
+http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",DURAIS TV
+http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",SAMUGAM TV
+https://ca.streamjo.com/live/samugam.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",AVINASSH IPTV
+http://bmlive.net:8000/Avinassh/avinassh/bms.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Apple Digital
+http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Jeevan TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",KVM TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",ASR TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/asrtv_low/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",SAI TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/saitv321_low/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",BELL TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/belltv123_low/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Tdcto TV
+http://live.singamcloud.in:1935/applemusic/applemusic/chunklist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Silver Sat
+http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",SRV TV
+http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Annai TV
+http://annaitv.livebox.co.in/annailivehls/live.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Jaya Movie
+http://last.gcdn.co/IND291/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Vijay Music
+http://last.gcdn.co/IND290/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Raj Musix
+http://last.gcdn.co/IND294/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Capital Music
+http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",7s Music
+http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Raj Digital
+http://last.gcdn.co/IND275/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Colors Tamil
+http://last.gcdn.co/IND283/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Vasanth TV
+http://14.199.164.20:4001/play/a0la/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png",SuperSport Premier League
+http://iptv.tvmalaysia.cc/live/penang189/penang189/6621.ts
+#EXTINF:-1 group-title="International:Infotainment" tvg-logo="https://image.roku.com/developer_channels/prod/88a440255269e1782103522844732107d34aa120f27dedf0c2339f9e6e2ae72b.png",Adventure Sports
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="International:Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Docurama_Logo_August_2015.jpg/220px-Docurama_Logo_August_2015.jpg",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 group-title="Hindi Local:Movies" tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:-1 group-title="TSIndia Hindi Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhYqFZGxRzP5WbWv_HlFvzEgMGYtgQ2lMzH6KrgUw=s88-c-k-c0x00ffffff-no-rj",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TSIndia Hindi Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP5nREg9AYPqGk6NnyZHoSOIzBmq3IWPxxg&usqp=CAU",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSIndia Hindi Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="TSIndia English News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TSIndia English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
+#EXTINF:-1 group-title="TSIndia English BusinessNews" tvg-logo="https://i.imgur.com/rhkI95a.png",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://kcltv.com/images/logo.jpg",Kcl Tv
+http://kcltv.livebox.co.in:80/kclhls/live.m3u8
+#EXTINF:-1 group-title="TSIndia Malayalam Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Kerala_Vision.jpeg/revision/latest/scale-to-width-down/240?cb=20191228094530",Kerala Vision
+http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="TSIndia Malayalam Entertainment" tvg-logo="https://scontent.fmaa2-3.fna.fbcdn.net/v/t31.18172-8/20545323_850370475119313_7020688018565467846_o.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vfJsMOuSSOEAX_zEwxs&_nc_ht=scontent.fmaa2-3.fna&oh=2ff8f9332f35badb0c8a7b3a414ba6de&oe=60CDF62D",Pulari Tv
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 group-title="TSIndia Malayalam Entertainment" tvg-logo="https://m4tv.com.au/assests/images/logo.png",M4 Malayalam Australia
+http://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://i.postimg.cc/cLwtmx4x/onetv.png",One Tv
+http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://utvpkd.in/assets/img/logo.png",UTv Palakkad
+http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony_Ten_4.png/revision/latest/scale-to-width-down/220?cb=20210601055433",Sony Ten 4
+https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 group-title="TSSouth Radio" tvg-logo="http://www.hello.fm/images/logo2.png",Hello FM
+https://livessl.rcast.net/stream/66462.mp3
+#EXTINF:-1 group-title="TSSouth Radio" tvg-logo="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.6435-9/85242851_2563286400596885_46584886034694144_n.png?_nc_cat=111&ccb=1-3&_nc_sid=174925&_nc_ohc=YsRIdQIOyo8AX87TKEM&_nc_ht=scontent.fmaa2-2.fna&oh=86e2477fdd4af491a214a6f69b6177fb&oe=60DAFA17",Panbalai Tamil FM
+http://212.83.138.48:8251/stream.mp3
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://haritv.com/images/logo.png",HARI TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Ragam-TV.png",Raagam HD
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp",Puthiya Thalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616159247_icon.png",SINGAM TV
+http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616232479_kalaiisai.png",Kalai ISAI
+http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616308266_kalaingar news.png",kalaignar NEWS
+http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live//kalaignar_tv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616305109_puthiya.png",Puthiyathalimurai NEWS
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1616305215_polimer.png",Polimer News
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TSSouth Local" tvg-logo="https://singamcloud.com/tv/upload/1622284783_Nvision.png",Nvision
+http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="TS RapidX Kids",Hungama TV
+http://103.153.39.36:8000/play/a01x
+#EXTINF:-1 tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1200px-2010_Disney_Channel_logo.svg.png" group-title="TS RapidX Kids",Disney Channel
+http://103.153.39.36:8000/play/a01y
+#EXTINF:-1 tvg-id="00" tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="TS RapidX Kids",Disney Junior
+http://103.153.39.36:8000/play/a020
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",&PRIVE HD-Rs 19
+http://103.153.39.36:8000/play/a01d
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",&flix HD-Rs19
+http://103.153.39.36:8000/play/a00p
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",&pictures HD -Rs19
+http://103.153.39.36:8000/play/a017
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",&tv HD - Rs 19
+http://103.153.39.36:8000/play/a01u
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",BBC World - Rs 1
+http://103.153.39.36:8000/play/a01f
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",ANIMAL PLAN HD-Rs3
+http://103.153.39.36:8000/play/a011
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",CARTOON International-Rs50p
+http://103.153.39.36:8000/play/a01w
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",CARTOON-Rs4.25
+http://103.153.39.36:8000/play/a01e
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Colors HD-Rs 19
+http://103.153.39.36:8000/play/a00o
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Dhinchaak-Rs4.25
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Dhinchaak 2-Rs4.25
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",DISCOVERY K-Rs3
+http://103.153.39.36:8000/play/a024
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Discovery HD-Rs6
+http://103.153.39.36:8000/play/a00y
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Discovery S-Rs1
+http://103.153.39.36:8000/play/a01k
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Discovery T-Rs1
+http://103.153.39.36:8000/play/a01l
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",EuroSports HD-Rs 6
+http://103.153.39.36:8000/play/a00r
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",FOX Life HD-Rs1
+http://103.153.39.36:8000/play/a01t
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",HISTORY TV18 HD-Rs7
+http://103.153.39.36:8000/play/a013
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Investigation Discovery-Rs1
+http://103.153.39.36:8000/play/a00j
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",MAX HD -Rs 17
+http://103.153.39.36:8000/play/a00h
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",MN+ HD -Rs 17
+http://103.153.39.36:8000/play/a00u
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",MNX HD -Rs 17
+http://103.153.39.36:8000/play/a01h
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",MOVIES NO-Rs 10
+http://103.153.39.36:8000/play/a01i
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",NAT Geo Wild HD-Rs 5
+http://103.153.39.36:8000/play/a00i
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",National G HD-Rs10
+http://103.153.39.36:8000/play/a00x
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Nick Jr. - Rs1
+http://103.153.39.36:8000/play/a023
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",PIX HD - Rs 15
+http://103.153.39.36:8000/play/a016
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Pogo - Rs 4.25
+http://103.153.39.36:8000/play/a022
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",SAB HD - Rs 19
+http://103.153.39.36:8000/play/a01v
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",SET HD - Rs 19
+http://103.153.39.36:8000/play/a00q
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",SIX HD - Rs 19
+http://103.153.39.36:8000/play/a00f
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",SONIC- Rs 2
+http://103.153.39.36:8000/play/a021
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",SONY MAX 2 - Rs 1
+http://103.153.39.36:8000/play/a01s
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",STAR BHARAT HD-Rs19
+http://103.153.39.36:8000/play/a010
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",STAR MOV HD-Rs 19
+http://103.153.39.36:8000/play/a00v
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",STAR WOR P HD-Rs9
+http://103.153.39.36:8000/play/a00a
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",STAR WORLD HD -Rs9
+http://103.153.39.36:8000/play/a00b
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Sony BBC EarHD-Rs10
+http://103.153.39.36:8000/play/a015
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Sony Ten 1 HD- Rs 19
+http://103.153.39.36:8000/play/a00e
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Sony Ten 2 HD- Rs 17
+http://103.153.39.36:8000/play/a01a
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Sony Ten 3 HD- Rs 17
+http://103.153.39.36:8000/play/a00k
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star GOLD HD -Rs10
+http://103.153.39.36:8000/play/a012
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star Gold 2- Rs 1
+http://103.153.39.36:8000/play/a01q
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star Gold SelHD-Rs10
+http://103.153.39.36:8000/play/a014
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star Plus HD -Rs19
+http://103.153.39.36:8000/play/a00m
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star S Hin 1 HD- Rs19
+http://103.153.39.36:8000/play/a026
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star Spo 1 HD-Rs19
+http://103.153.39.36:8000/play/a00c
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star Spo 2 HD- Rs19
+http://103.153.39.36:8000/play/a00d
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star Sports 3 Rs 4
+http://103.153.39.36:8000/play/a00l
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star Sports S 1 HD-Rs19
+http://103.153.39.36:8000/play/a018
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Star Sports S 2 HD-Rs10
+http://103.153.39.36:8000/play/a019
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",StarMov S HD-Rs 10
+http://103.153.39.36:8000/play/a00w
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",TLC HD- Rs3
+http://103.153.39.36:8000/play/a027
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",UTV ACTION-Rs 2
+http://103.153.39.36:8000/play/a01p
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",UTV MOVIES-Rs 2
+http://103.153.39.36:8000/play/a01o
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",ZEE ANMOL-Rs 10p
+http://103.153.39.36:8000/play/a00s
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",ZEE BOLLYWO-Rs2
+http://103.153.39.36:8000/play/a01r
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",ZEE CINEMA HD-Rs19
+http://103.153.39.36:8000/play/a00z
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",ZEE Cafe H-Rs19
+http://103.153.39.36:8000/play/a00t
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",ZEE TV HD-Rs 19
+http://103.153.39.36:8000/play/a00n
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",Zoom - 50p
+http://103.153.39.36:8000/play/a025
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",colors INFIN HD-Rs9
+http://103.153.39.36:8000/play/a01b
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",nick - Rs 6
+http://103.153.39.36:8000/play/a01z
+#EXTINF:-1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="TS AirtelTV",nick HD+- Rs 10
+http://103.153.39.36:8000/play/a01c
+
+
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8048.AzaadTV.in/en/1x1/208x208/test_pic1623389647594.jpg",Azaad TV
+https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.jpg",Mastiii
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0781.9XJalwa.in/en/1x1/208x208/test_pic1545220867249.jpg",9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0091.IndiaTV.in/en/1x1/208x208/test_pic1541353350078.JPG",India TV
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0380.NewsX.in/en/1x1/208x208/test_pic1552315785886.jpg",NewsX
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1693.IndiaNewsUP.in/en/1x1/208x208/test_pic1558073787702.jpg",India News UP
+https://m-c18-j2apps.s.llnwi.net/hls/1693.IndiaNewsUP.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0442.IndiaNews.in/en/1x1/208x208/test_pic1552315699798.jpg",India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0344.News24.in/en/1x1/208x208/test_pic1558260507041.jpeg",News24
+https://m-c04-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1838.GulistanNews.in/en/1x1/208x208/test_pic1552384672096.jpg",Gulistan News
+https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0285.RSTV.in/en/1x1/208x208/test_pic1632375637891.jpg",Sansad TV
+https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1900.IndiaNewsMP.in/en/1x1/208x208/test_pic1552392572065.jpg",India News MP
+https://m-c18-j2apps.s.llnwi.net/hls/1900.IndiaNewsMP.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0290.DDUP.in/en/1x1/208x208/test_pic1535463600644.jpg",DD UP
+https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7016.ABPMajha.in/en/1x1/208x208/test_pic1608057169573.jpg",ABP Majha
+https://m-c02-j2apps.s.llnwi.net/hls/7016.ABPMajha.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0182.DDNews.in/en/1x1/208x208/test_pic1552315684641.jpg",DD News
+https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0281.DDBihar.in/en/1x1/208x208/test_pic1535463301638.jpg",DD Bihar
+https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0519.IBC24.in/en/1x1/208x208/test_pic1544081572562.jpg",IBC24
+https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0131.TotalTV.in/en/1x1/208x208/test_pic1544081844210.jpg",Total TV
+https://m-c049-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0185.SamayBiharJharkhand.in/en/1x1/208x208/test_pic1543407146767.jpg",Sahara Samay Bihar Jharkhand
+https://m-c02-j2apps.s.llnwi.net/hls/0185.SamayBiharJharkhand.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0188.SamayUPUttrakhand.in/en/1x1/208x208/test_pic1543408239777.jpg",Sahara Samay UttarPradesh
+https://m-c02-j2apps.s.llnwi.net/hls/0188.SamayUPUttrakhand.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0186.SamayRajasthan.in/en/1x1/208x208/test_pic1552392926901.jpg",Sahara Samay Rajasthan
+https://m-c02-j2apps.s.llnwi.net/hls/0186.SamayRajasthan.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0187.SamayMPChhattisgarh.in/en/1x1/208x208/test_pic1552392916376.jpg",Sahara Samay MadhyaPradesh Chhattisgarh
+https://m-c02-j2apps.s.llnwi.net/hls/0187.SamayMPChhattisgarh.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1647.SadhnaMPChattisgarh.in/en/1x1/208x208/test_pic1552392882223.jpg",Sadhna MadahyaPradesh Chattisgarh
+https://m-c02-j2apps.s.llnwi.net/hls/1647.SadhnaMPChattisgarh.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1872.FirstIndiaNewsRajasthan.in/en/1x1/208x208/test_pic1544081965308.jpg",1st India News Rajasthan
+https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/4704.HousefullAction.in/en/1x1/208x208/test_pic1536151299517.jpg",Housefull Action
+https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/2172.ManoranjanMovies.in/en/1x1/208x208/test_pic1535537678437.jpg",Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0079.Filmy.in/en/1x1/208x208/test_pic1535463753952.jpg",Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG",WOW Cinema One
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg",DD Kisan
+https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1309.IshwarTV.in/en/1x1/208x208/test_pic1554455564178.jpg",Ishwar TV
+https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5265.HareKrsna.in/en/1x1/208x208/test_pic1535463846600.jpg",Hare Krsna
+https://m-c04-j2apps.s.llnwi.net/hls/5265.HareKrsna.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1115.ShubhsandeshTV.in/en/1x1/208x208/test_pic1543828409920.jpg",Shubhsandesh TV
+https://m-c01-j2apps.s.llnwi.net/hls/1115.ShubhsandeshTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0133.Sadhna.in/en/1x1/208x208/test_pic1543827526739.jpg",Sadhna TV
+https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/6491.KrishnaVani.in/en/1x1/208x208/test_pic1552999154509.jpg",Krishna Vani
+https://m-c03-j2apps.s.llnwi.net/hls/6491.KrishnaVani.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5264.GoodnewsTV.in/en/1x1/208x208/test_pic1543828187115.jpg",GoodNews TV
+https://m-c04-j2apps.s.llnwi.net/hls/5264.GoodnewsTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0178.DDBharati.in/en/1x1/208x208/test_pic1535537628599.jpg",DD Bharati
+https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0353.Firangi.in/en/1x1/208x208/test_pic1535537649542.jpg",Firangi
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0180.DDIndia.in/en/1x1/208x208/test_pic1552392493086.jpg",DD India
+https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1683.DDMadhyaPradesh.in/en/1x1/208x208/test_pic1535463428992.jpg",DD Madhya Pradesh
+https://m-c047-j2apps.s.llnwi.net/hls/1683.DDMadhyaPradesh.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/9310.GODTV.in/en/1x1/208x208/test_pic1555401186053.jpg",GOD TV
+https://m-c03-j2apps.s.llnwi.net/hls/9310.GODTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0252.DDBangla.in/en/1x1/208x208/test_pic1535463247033.jpg",DD Bangla
+https://m-c048-j2apps.s.llnwi.net/hls/0252.DDBangla.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5956.KolkataLive.in/en/1x1/208x208/test_pic1535464177413.jpg",Kolkata Live
+https://m-c047-j2apps.s.llnwi.net/hls/5956.KolkataLive.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1359.AnjanTV.in/en/1x1/208x208/test_pic1535463038783.jpg",Anjan TV
+https://m-c03-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0950.DabanggTV.in/en/1x1/208x208/test_pic1537963271535.jpg",Dabangg TV
+https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1785.OscarMoviesBhojpuri.in/en/1x1/208x208/test_pic1535464489210.jpg",Oscar Movies Bhojpuri
+https://m-c16-j2apps.s.llnwi.net/hls/1785.OscarMoviesBhojpuri.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/6504.ShikshaTV.in/en/1x1/208x208/test_pic1552315803912.jpg",Shiksha TV
+https://m-a5-j2apps.s.llnwi.net/hls/shikshatv.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/6518.ValambhaktiHD.in/en/1x1/208x208/test_pic1594732243027.jpg",Valam TV
+https://m-c08-j2apps.s.llnwi.net/hls/6518.ValambhaktiHD.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1738.LakshyaTV.in/en/1x1/208x208/test_pic1558448044895.jpg",Lakshya TV
+https://m-c04-j2apps.s.llnwi.net/hls/1738.LakshyaTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0254.DDGirnar.in/en/1x1/208x208/test_pic1552392459508.jpg",DD Girnar
+https://m-c18-j2apps.s.llnwi.net/hls/0254.DDGirnar.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5730.IndiaNewsGujarat.in/en/1x1/208x208/test_pic1552392553997.jpg",India News Gujarat
+https://m-c049-j2apps.s.llnwi.net/hls/5730.IndiaNewsGujarat.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5389.MantavyaNews.in/en/1x1/208x208/test_pic1617348909652.jpg",Mantavya News
+https://m-c01-j2apps.s.llnwi.net/hls/5389.MantavyaNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1692.IndiaNewsHaryana.in/en/1x1/208x208/test_pic1535463908195.jpg",India News Haryana
+https://m-c049-j2apps.s.llnwi.net/hls/1692.IndiaNewsHaryana.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0255.DDChandana.in/en/1x1/208x208/test_pic1535463325575.jpg",DD Chandana
+https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5921.NewsXKannada.in/en/1x1/208x208/test_pic1552392725366.jpg",NE News
+https://m-c15-j2apps.s.llnwi.net/hls/5921.NewsXKannada.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0282.DDKashir.in/en/1x1/208x208/test_pic1535463398399.jpg",DD Kashir
+https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1662.KaumudyTV.in/en/1x1/208x208/test_pic1542008292502.jpg",Kaumudy TV
+https://m-c049-j2apps.s.llnwi.net/hls/1662.KaumudyTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0261.DDMalayalam.in/en/1x1/208x208/test_pic1535463448639.jpg",DD Malayalam
+https://m-c047-j2apps.s.llnwi.net/hls/0261.DDMalayalam.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1380.KappaTV.in/en/1x1/208x208/test_pic1552384776784.jpg",Kappa TV
+https://m-c18-j2apps.s.llnwi.net/hls/1380.KappaTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0264.JeevanTV.in/en/1x1/208x208/test_pic1541434103370.jpg",Jeevan TV
+https://m-c049-j2apps.s.llnwi.net/hls/0264.JeevanTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0113.DDSahyadri.in/en/1x1/208x208/test_pic1535463564844.jpg",DD Sahyadri
+https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1759.Maiboli.in/en/1x1/208x208/test_pic1552386808959.jpg",Maiboli
+https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/3724.SangeetMarathi.in/en/1x1/208x208/test_pic1552392961420.jpg",Sangeet Marathi
+https://m-c02-j2apps.s.llnwi.net/hls/3724.SangeetMarathi.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0750.9XJhakaas.in/en/1x1/208x208/test_pic1552384478964.jpg",9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0284.DDNorthEast.in/en/1x1/208x208/test_pic1535463497675.jpg",DD North East
+https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0263.DDPunjabi.in/en/1x1/208x208/test_pic1538640430775.JPG",DD Punjabi
+https://m-c048-j2apps.s.llnwi.net/hls/0263.DDPunjabi.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5366.Pitaara.in/en/1x1/208x208/test_pic1535976851878.JPG",Pitaara
+https://m-c08-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/5416.BoogleBollywood.in/en/1x1/208x208/test_pic1552998444643.jpg",Boogle Bollywood
+https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0197.MH1.in/en/1x1/208x208/test_pic1544189994326.jpg",MH1 One
+https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/1712.IndiaNewsRajasthan.in/en/1x1/208x208/test_pic1552384722318.jpg",India News Rajasthan
+https://m-c29-j2apps.s.llnwi.net/hls/1712.IndiaNewsRajasthan.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0250.DDPodhigai.in/en/1x1/208x208/test_pic1535463516112.jpg",DD Podhigai
+https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg",Captain TV
+https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg",Tunes 6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0211.MakkalTV.in/en/1x1/208x208/test_pic1535464283279.jpg",Makkal TV
+https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0727.PuthiyaThalaimurai.in/en/1x1/208x208/test_pic1535537717842.jpg",Puthiya Thalaimurai
+https://m-c18-j2apps.s.llnwi.net/hls/0727.PuthiyaThalaimurai.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0286.DDSaptagiri.in/en/1x1/208x208/test_pic1535463538962.jpg",DD Saptagiri
+https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.jpg",Studio One Plus
+https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0440.TV5Telugu.in/en/1x1/208x208/test_pic1542964247055.jpg",TV5 Telugu
+https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0375.AalamiSamay.in/en/1x1/208x208/test_pic1554722534887.jpg",Sahara Aalami Sahara
+https://m-c08-j2apps.s.llnwi.net/hls/0375.AalamiSamay.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg",Mahaa News
+https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/0389.E24.in/en/1x1/208x208/test_pic1535980264378.jpg",E24
+https://m-c02-j2apps.s.llnwi.net/hls/0389.E24.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/6521.Movieplus.in/en/1x1/208x208/test_pic1559821113768.jpg",Movie Plus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/6652.HamariSanskrutiTV.in/en/1x1/208x208/test_pic1560427725394.jpg",Hamari Sanskruti TV
+https://m-c04-j2apps.s.llnwi.net/hls/6652.HamariSanskrutiTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7001.Kalinga.in/en/1x1/208x208/test_pic1565683828136.jpg",Kalinga TV
+https://m-c03-j2apps.s.llnwi.net/hls/7001.Kalinga.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7005.FoodFoodChannel.in/en/1x1/208x208/test_pic1566654831939.jpg",Food Food
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7006.EuroNews.in/en/1x1/208x208/test_pic1567778758221.jpg",Euro news
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7007.France24.in/en/1x1/208x208/test_pic1567778813838.jpg",France 24
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7008.TV5MondeASIE.in/en/1x1/208x208/test_pic1567778886223.jpg",TV5 monde ASIE
+https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8022.Samaranews.in/en/1x1/208x208/test_pic1611217920316.jpg",Samara news
+https://m-c06-j2apps.s.llnwi.net/hls/8022.Samaranews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7010.KalyanTV.in/en/1x1/208x208/test_pic1574075076834.jpg",Kalyan TV
+https://m-c02-j2apps.s.llnwi.net/hls/7010.KalyanTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8025.DWEnglishDeutsch.in/en/1x1/208x208/test_pic1574768028648.jpg",DW
+https://m-c09-j2apps.s.llnwi.net/hls/8025.DWEnglishDeutsch.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7012.GarvGurbani.in/en/1x1/208x208/test_pic1579682040846.jpg",Garv Gurbani
+https://m-c09-j2apps.s.llnwi.net/hls/7012.GarvGurbani.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7013.GarvPunjab.in/en/1x1/208x208/test_pic1579682053449.jpg",Garv punjab
+https://m-c09-j2apps.s.llnwi.net/hls/7013.GarvPunjab.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7011.SwarShree.in/en/1x1/208x208/test_pic1579508918786.jpg",Swar Shree
+https://m-c09-j2apps.s.llnwi.net/hls/7011.SwarShree.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7018.ABPSanjha.in/en/1x1/208x208/test_pic1608057219454.jpg",ABP Sanjha
+https://m-c02-j2apps.s.llnwi.net/hls/7018.ABPSanjha.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7015.ABPAnanda.in/en/1x1/208x208/test_pic1608057252931.jpg",ABP Ananda
+https://m-c02-j2apps.s.llnwi.net/hls/7015.ABPAnanda.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7017.ABPGanga.in/en/1x1/208x208/test_pic1608057289870.jpg",ABP Ganga
+https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7019.ABPAsmita.in/en/1x1/208x208/test_pic1608057325628.jpg",ABP Asmita
+https://m-c02-j2apps.s.llnwi.net/hls/7019.ABPAsmita.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7039.JigyasaTV.in/en/1x1/208x208/test_pic1583246986689.jpg",Jigyasa TV
+https://m-c01-j2apps.s.llnwi.net/hls/7039.JigyasaTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8030.TVIQ.in/en/1x1/208x208/test_pic1587704854399.jpg",TV IQ
+https://m-c09-j2apps.s.llnwi.net/hls/8030.TVIQ.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7043.News1India.in/en/1x1/208x208/test_pic1588701259991.jpg",News 1 India
+https://m-c18-j2apps.s.llnwi.net/hls/7043.News1India.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7041.DDRetro.in/en/1x1/208x208/test_pic1588701102113.jpg",DD Retro
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_dvr.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7048.NationalVoice.in/en/1x1/208x208/test_pic1593666061152.jpg",Divya TV
+https://m-c05-j2apps.s.llnwi.net/hls/7048.NationalVoice.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7049.DesiChannel.in/en/1x1/208x208/test_pic1590737770507.jpg",Desi Channel
+https://m-c07-j2apps.s.llnwi.net/hls/7049.DesiChannel.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7053.NewsOnly.in/en/1x1/208x208/test_pic1590737990207.jpg",News Only
+https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7055.Gurbani.in/en/1x1/208x208/test_pic1590738214212.jpg",Gurkibani
+https://m-c03-j2apps.s.llnwi.net/hls/7055.Gurbani.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7058.BalleBalle.in/en/1x1/208x208/test_pic1590764832420.jpg",Balle Balle
+https://m-c049-j2apps.s.llnwi.net/hls/7058.BalleBalle.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai Leela
+https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.jpg",Bharat Samachar
+https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7061.Kartavya.in/en/1x1/208x208/test_pic1592929332248.jpg",Kartavya
+https://m-c05-j2apps.s.llnwi.net/hls/7061.Kartavya.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7065.NaxatraNews.in/en/1x1/208x208/test_pic1593160984745.jpg",Naxatra News Channel
+https://m-c05-j2apps.s.llnwi.net/hls/7065.NaxatraNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7064.SevenWonders.in/en/1x1/208x208/test_pic1593581224850.jpg",Seven Wonders
+https://m-c05-j2apps.s.llnwi.net/hls/7064.SevenWonders.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7070.RajMahalTV.in/en/1x1/208x208/test_pic1594051312699.jpg",Raj Mahal TV
+https://m-c047-j2apps.s.llnwi.net/hls/7070.RajMahalTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8063.ES24.in/en/1x1/208x208/test_pic1623314760124.jpg",ES24
+https://ov.ottera.tv/live/master2300000.m3u8;session=jun_es
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8055.CombatGO.in/en/1x1/208x208/test_pic1602154545160.jpg",Combat Go
+https://m-c07-j2apps.s.llnwi.net/hls_hd/8055.CombatGO.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7071.DivyalokTV.in/en/1x1/208x208/test_pic1594192150504.jpg",Divyalok TV
+https://m-c05-j2apps.s.llnwi.net/hls/7071.DivyalokTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7072.ShemarooMarathibana.in/en/1x1/208x208/test_pic1594370246744.jpg",Shemaroo Marathibana
+https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7074.MalaiMurasuTV.in/en/1x1/208x208/test_pic1594370421566.jpg",Malai Murasu TV
+https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7076.HNN.in/en/1x1/208x208/test_pic1621508360754.jpg",HNN 24x7
+https://m-c09-j2apps.s.llnwi.net/hls/7076.HNN.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7073.FunTV.in/en/1x1/208x208/test_pic1595760664890.jpg",Shemaroo TV
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7075.Wintech.in/en/1x1/208x208/test_pic1595830723422.jpg",Channel Win
+https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg",Vendhar TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7078.JanTV.in/en/1x1/208x208/test_pic1596355844398.jpg",Jan TV
+https://m-c09-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7079.News36.in/en/1x1/208x208/test_pic1596797584928.jpg",News 36
+https://m-c06-j2apps.s.llnwi.net/hls/7079.News36.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7082.HaryanviHits.in/en/1x1/208x208/test_pic1598595984676.jpg",Haryanvi Hits
+https://m-c037-j2apps.s.llnwi.net/hls/7082.HaryanviHits.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7083.ZoomOnNews.in/en/1x1/208x208/test_pic1599546034201.jpg",Zoom On News Marathi
+https://m-c06-j2apps.s.llnwi.net/hls/7083.ZoomOnNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7085.PurePunjabi.in/en/1x1/208x208/test_pic1599633878424.jpg",Desi Channel
+https://m-c03-j2apps.s.llnwi.net/hls/7085.PurePunjabi.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7088.AryaSandesh.in/en/1x1/208x208/test_pic1599546303176.jpg",Arya Sandesh
+https://m-c03-j2apps.s.llnwi.net/hls/7088.AryaSandesh.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7094.NimbarkTV.in/en/1x1/208x208/test_pic1600090313942.jpg",Nimbark TV
+https://m-c036-j2apps.s.llnwi.net/hls/7094.NimbarkTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7090.SamacharNews.in/en/1x1/208x208/test_pic1600172897585.jpg",Samachar Today
+https://m-c010-j2apps.s.llnwi.net/hls/7090.SamacharNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7082.RealNewskerela.in/en/1x1/208x208/test_pic1600428716946.png",Real News Kerala
+https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7089.Network10News.in/en/1x1/208x208/test_pic1600172827751.jpg",Network 10 New
+https://m-c010-j2apps.s.llnwi.net/hls/7089.Network10News.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/7097.PrimeNews.in/en/1x1/208x208/test_pic1601186308774.jpg",Prime News
+https://m-c010-j2apps.s.llnwi.net/hls/7097.PrimeNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8002.LokshahiNews.in/en/1x1/208x208/test_pic1602174409682.jpg",Lokshahi News
+https://m-c06-j2apps.s.llnwi.net/hls/8002.LokshahiNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8015.ABNews.in/en/1x1/208x208/test_pic1603097667243.jpg",AB News
+https://m-c06-j2apps.s.llnwi.net/hls/8015.ABNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8014.ABStarNews.in/en/1x1/208x208/test_pic1603097598404.jpg",AB Star News
+https://m-c05-j2apps.s.llnwi.net/hls/8014.ABStarNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8013.SanatanTV.in/en/1x1/208x208/test_pic1603097486172.jpg",Sanatan TV
+https://m-c05-j2apps.s.llnwi.net/hls/8013.SanatanTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg",Express TV
+https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8012.Nepal1News.in/en/1x1/208x208/test_pic1603097383555.jpg",Nepal 1 News
+https://m-c05-j2apps.s.llnwi.net/hls/8012.Nepal1News.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8011.APNNews.in/en/1x1/208x208/test_pic1603094458437.jpg",APN News
+https://m-c05-j2apps.s.llnwi.net/hls/8011.APNNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8019.PeaceMusic.in/en/1x1/208x208/test_pic1603378379395.jpg",Peace Music
+https://m-c050-j2apps.s.llnwi.net/hls/8019.PeaceMusic.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8022.VipNews.in/en/1x1/208x208/test_pic1603694574030.jpg",VIP News
+https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8023.AANNNews.in/en/1x1/208x208/test_pic1603694522565.jpg",ANN NEWS
+https://m-c07-j2apps.s.llnwi.net/hls/8023.AANNNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8027.RongeenTV.in/en/1x1/208x208/test_pic1605964151002.jpg",Rongeen TV
+https://m-c05-j2apps.s.llnwi.net/hls/8027.RongeenTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8028.JantantraTV.in/en/1x1/208x208/test_pic1606022409738.jpg",Jantantra TV
+https://m-c010-j2apps.s.llnwi.net/hls/8028.JantantraTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8031.VedantTV.in/en/1x1/208x208/test_pic1607600134818.jpg",Vedant TV
+https://m-c05-j2apps.s.llnwi.net/hls/8031.VedantTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8064.InsightTV.in/en/1x1/208x208/test_pic1608631431434.jpg",Insight TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8034.V6News.in/en/1x1/208x208/test_pic1607960004481.jpg",V6 News
+https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8033.HaryanaTashanEnt.in/en/1x1/208x208/test_pic1615992378172.jpg",Haryana Buzz
+https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8032.HaryanaTashanMusic.in/en/1x1/208x208/test_pic1615992348395.jpg",Tashan Music
+https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8036.PTNews.in/en/1x1/208x208/test_pic1609170530786.jpg",Darpan News
+https://m-c29-j2apps.s.llnwi.net/hls/8036.PTNews.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8040.PrimeTV.in/en/1x1/208x208/test_pic1611556390402.jpg",Prime TV
+https://m-c04-j2apps.s.llnwi.net/hls/8040.PrimeTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8041.HaryanaBeats.in/en/1x1/208x208/test_pic1611553733627.jpg",Haryana Beats
+https://m-c04-j2apps.s.llnwi.net/hls/8041.HaryanaBeats.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8039.SSTV.in/en/1x1/208x208/test_pic1611551728510.jpg",SSTV
+https://m-c04-j2apps.s.llnwi.net/hls/8039.SSTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8043.Divya.in/en/1x1/208x208/test_pic1615290925975.jpg",Divya
+https://m-c07-j2apps.s.llnwi.net/hls/8043.Divya.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8051.Sanskriti24X7.in/en/1x1/208x208/test_pic1621834648618.jpg",Sanskriti 24X7
+https://m-c06-j2apps.s.llnwi.net/hls/8051.Sanskriti24X7.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8052.SharnamTV.in/en/1x1/208x208/test_pic1623648242435.jpg",Sharnam TV
+https://m-c049-j2apps.s.llnwi.net/hls/8052.SharnamTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8069.FashionTVMumbai.in/en/1x1/208x208/test_pic1624442568062.jpg",Fashion TV
+https://m-c037-j2apps.s.llnwi.net/hls/8069.FashionTVMumbai.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8054.GreenChillies.in/en/1x1/208x208/test_pic1624949648654.jpg",Green Chillies
+https://m-c04-j2apps.s.llnwi.net/hls/8054.GreenChillies.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8053.ShineTV.in/en/1x1/208x208/test_pic1625049221923.jpg",Shine TV
+https://m-c035-j2apps.s.llnwi.net/hls/8053.ShineTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8056.News24MPCG.in/en/1x1/208x208/test_pic1624950278606.jpg",News24 MP CG
+https://m-c04-j2apps.s.llnwi.net/hls/8056.News24MPCG.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8061.DDOriya.in/en/1x1/208x208/test_pic1626174154669.jpg",DD Oriya
+https://m-c25-j2apps.s.llnwi.net/hls/8061.DDOriya.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8058.DDUrdu.in/en/1x1/208x208/test_pic1626174185015.jpg",DD Urdu
+https://m-c037-j2apps.s.llnwi.net/hls/8058.DDUrdu.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8059.DArunprabha.in/en/1x1/208x208/test_pic1626174225500.jpg",DD Arun Prabha
+https://m-c037-j2apps.s.llnwi.net/hls/8059.DArunprabha.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8064.ITV24.in/en/1x1/208x208/test_pic1626945096400.jpg",ITV24
+https://itv24.livebox.co.in/Itv24hls/live.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8065.DevamTV.in/en/1x1/208x208/test_pic1628488171410.jpg",Devam TV
+https://m-c010-j2apps.s.llnwi.net/hls/8065.DevamTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8066.RoseTV.in/en/1x1/208x208/test_pic1629705382764.jpg",Rose TV
+https://m-c048-j2apps.s.llnwi.net/hls/8066.RoseTV.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8068.ABZYCool.in/en/1x1/208x208/test_pic1633931850661.jpg",ABZY Cool
+https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8069.ABZYMovies.in/en/1x1/208x208/test_pic1633931926974.jpg",ABZY Movies
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8070.ABZYDhakad.in/en/1x1/208x208/test_pic1633932000644.jpg",ABZY Dhakad
+https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8071.RishuMovies.in/en/1x1/208x208/test_pic1634555422609.jpg",Rishu Movies
+https://m-c010-j2apps.s.llnwi.net/hls/8071.RishuMovies.in.m3u8
+#EXTINF:0 group-title="Techy Kuldeep" tvg-logo="https://j2apps.s.llnwi.net/pic/8075.TimesNowNavbharat.in/en/1x1/208x208/test_pic1643035240313.jpg",Times Now Navbharat
+https://m-c04-j2apps.s.llnwi.net/hls/8075.timesnownavbharat.in.m3u8
+
+
+#EXTINF:0 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Techy Kuldeep",Sony HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+#EXTINF:0 tvg-id="1000009248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Techy Kuldeep",Sony Sab HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:0 tvg-id="1000009273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Techy Kuldeep",Sony Pal
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:0 tvg-id="1000009255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Techy Kuldeep",Sony Aath
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:0 tvg-id="1000009259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Techy Kuldeep",Sony Marathi
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:0 tvg-id="1000009247" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Techy Kuldeep",Sony Max HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:0 tvg-id="1000009249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Techy Kuldeep",Sony Max
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:0 tvg-id="1000044878" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Techy Kuldeep",Sony Max 2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:0 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Techy Kuldeep",Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:0 tvg-id="1000009258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Techy Kuldeep",Sony Pix HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:0 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Techy Kuldeep",Sony Ten 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:0 tvg-id="1000009280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Techy Kuldeep",Sony Ten 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:0 tvg-id="1000009277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Techy Kuldeep",Sony Ten 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:0 tvg-id="1000009279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Techy Kuldeep",Sony Ten 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:0 tvg-id="1000009278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Techy Kuldeep",Sony Ten 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:0 tvg-id="1000009283" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Techy Kuldeep",Sony Ten 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF: -1 tvg-id="1000119186" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Techy Kuldeep",Sony Ten 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:0 tvg-id="1000119187" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="Techy Kuldeep",Sony Ten 4
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:0 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Techy Kuldeep",Sony Six HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:0 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Techy Kuldeep",Sony Six
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:0 tvg-id="821" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Techy Kuldeep",Sony BBC Earth
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:0 tvg-id="1000001971" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Techy Kuldeep",Sony Yay
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=DHd%2fcsvP0O5KRWlFt8DsLy8ruG0%3d&sessionId=40493c2e-cdb0-ffc9-cb91-ad68d45352a2:acd06234-c714-e474-4aa7-5ab9ef9393d6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXJpc2h0ZXkvODM3ODc0
+#EXTINF:-1 tvg-id="279" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Techy Kuldeep",Rishtey
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzU0NDU2IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc3N1cGVyX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=YYEAAJPxzCfQpfbJTDHmo%2bMse38%3d&sessionId=428a7eee-0998-21ff-7f70-d2e3652615b4:e996db95-83fe-51a3-c667-23ac2e6bbd99
+#EXTINF:-1 tvg-id="785" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Techy Kuldeep",Colors Super
+https://livevoot-i.akamaihd.net/dash/live/828527/colorssuper/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==
+#EXTINF:-0 tvg-id="429" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Techy Kuldeep",Colors Tamil HD
+https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=2PD5Ukiwmg7WNAjgVRfQ8NOSbT4%3d
+#EXTINF:0 tvg-id="482" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Techy Kuldeep",Colors Cineplex HD
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFanBJNjRfNHgzbHd4QVFjLWZmUHR5TFBZdlpyNDRXdjQ0SkF4M0xMSTdoLUdoRm9xY2hOT1hIVUZWVXEzOV9TU2ZRTWx5SG5GRklyN2lwR3hPb2d0S3lNS014MG9lLUJ2UzhpM0RjQUpNdmVyOHUyNlNjck9tX01CcmxPVEEtemRFZmZBYkFnR0tPSzJ6b3NTNTAtcWh6UDVPaWpYNHBtdDNTNUZadkpyTURmWVV4U0RfeTBSMkdBeE9iRE5lTHgyZlJYeDBiMWl6S0FZekZaU3NJR0p1VmZLX1FwWEtuTXRYbENSVHJVUHN5Wjk0U05UaEFOaGxiclBKSlpCVld1eV9HckR1TlJEdUE3ZzJ1T2xicDV1N2RHanE3WmZuVzFQVWQ3TXFuekc5MDFfNWVZMVAxdE8wbkx0d25OMzZfcmlpTTNDbmlBazZiSEhjeEJKRHVSMUtZcWlNQ1kwb0hMR25IYzhBMEpBZ0drb0Rob0hjMUx2UktoaDAxUkUxLV9QQzVORGxJckVGMHFYbE1JR1YyNnloSkpxaDh2N194Ty0wb3VLdkFuN3hweEJPUnFTTHNWNVFjVkRVT2lLTUZiTDNWT3lWSzI4QWl0T3N1T1ZDb2VTUT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMDY4MjkxNiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnNrYW5uYWRhaGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkVqcEk2NF80eDNsd3hBUWMtZmZQdHlMUFl2WnI0NFd2NDRKQXgzTExJN2gtR2hGb3FjaE5PWEhVRlZVcTM5X1NTZlFNbHlIbkZGSXI3aXBHeE9vZ3RLeU1LTXgwb2UtQnZTOGkzRGNBSk12ZXI4dTI2U2NyT21fTUJybE9UQS16ZEVmZkFiQWdHS09LMnpvc1M1MC1xaHpQNU9palg0cG10M1M1Rlp2SnJNRGZZVXhTRF95MFIyR0F4T2JETmVMeDJmUlh4MGIxaXpLQVl6RlpTc0lHSnVWZktfUXBYS25NdFhsQ1JUclVQc3laOTRTTlRoQU5obGJyUEpKWkJWV3V5X0dyRHVOUkR1QTdnMnVPbGJwNXU3ZEdqcTdaZm5XMVBVZDdNcW56RzkwMV81ZVkxUDF0TzBuTHR3bk4zNl9yaWlNM0NuaUFrNmJISGN4QkpEdVIxS1lxaU1DWTBvSExHbkhjOEEwSkFnR2tvRGhvSGMxTHZSS2hoMDFSRTEtX1BDNU5EbElyRUYwcVhsTUlHVjI2eWhKSnFoOHY3X3hPLTBvdUt2QW43eHB4Qk9ScVNMc1Y1UWNWRFVPaUtNRmJMM1ZPeVZLMjhBaXRPc3VPVkNvZVNRPSIsInVkaWQiOiI0ZWMyZTkwNGUzMTk0MTZmODY4MTY3NTcwYmZhOWE3ZiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=TxWxKY90%2brcJoqrH4HBUCgOOkSI%3d&sessionId=d977f5d5-8a75-2199-5834-cbfc76a2af15:e9e6f8a1-32cf-d6d7-2362-9884bd28bfc0&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1rYW5uYWRhLWhkLzkxMTY1NA==
+#EXTINF:0 tvg-id="757" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Techy Kuldeep",Colors Kannada HD
+https://livevoot-i.akamaihd.net/dash/live/828525/kannada1/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzQ5MzIyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2d1amFyYXRpX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=VSwFTGblUwlPMiuhZ375MAI%2fbEE%3d&sessionId=f39a4352-c14f-20ea-19e9-dfde8d42518f:9539ec27-bf2d-8d88-8f12-e0c78d10c5ac&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLWd1amFyYXRpLzkyMzE1NA==
+#EXTINF:-1 tvg-id="196" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Techy Kuldeep",Colors Gujarati
+https://livevoot-i.akamaihd.net/dash/live/828532/colorsgujarati/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzYiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3Jzb2RpYV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=o0maiyCjQLnv8SgCEllhGEkeV54%3d&sessionId=dfefec3d-dff7-a1de-0418-722e943c29a5:fb7448f7-482d-1c7a-b1f5-99cc8a0b9a1c
+#EXTINF:-1 tvg-id="198" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Techy Kuldeep,Colors Oriya
+https://livevoot-i.akamaihd.net/dash/live/828550/colorsodia/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzgiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzYmFuZ2xhX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=Efuk4jS5sQ49b5Y5MDMXaJf1GVM%3d
+#EXTINF:-1 tvg-id="756" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Techy Kuldeep",Colors Bengali HD 
+https://livevoot-i.akamaihd.net/dash/live/828529/colorsbangla/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgxNDE5MDkiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzbWFyYXRoaV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=Hv5fKZoe9jmMliExuYd4XkE%2bjZM%3d&sessionId=1fab1c33-e772-cac2-7cda-27390b40c4c3:9ee5b31e-40f7-2d42-861f-d03f5276e8fa&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLW1hcmF0aGktaGQvNzkzOTMw
+#EXTINF:0 tvg-id="755" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Techy Kuldeep",Colors Marathi HD
+https://livevoot-i.akamaihd.net/dash/live/828522/colorsmarathi/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2BOar8fBSc5NW4g1j%2fio%3d
+#EXTINF:0 tvg-id="1157" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Techy Kuldeep",Comedy Central HD
+https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDk1MjAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaW5maW5pdHlfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=pPFK0oru0vii%2bp6wQGmfZ5DQSs4%3d
+#EXTINF:-1 tvg-id="1158" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Techy Kuldeep",Colors Infinity HD 
+https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODgyNjk2MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZiZWF0c19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTjNKWUtvaTFUYmU2Tmh4Zk5hUzVvTC1MMmx2bW8xT3dYZDRISHFpVm9INEpDVDJCWkpaZlFRMTZjQmMwTXo2YWZaeWdQUVJicldhcHVhNXRsR3l2UHo3SUtxeFg4Nnd2cDZIUlBrUHpjYnFSYVo3R0xpLWxmNjA4WE9YbWZWWkcxUWRPZlUteGc4WjRCNlVPa0Rrc1pRZk1WdHJwcWpRaFVIdXhnQm9aUjUyZTY3V3ZMZVJVNHRpM2hiNng1WTZYWG9fZC1va0Z0VDBEUU1VSEh1NlNLNFdfN3ZNSHRCZm15UW9kT1pXTjdIVVl0ZUEycms0akZ5NW1jd1dXUGx5VXAtekh4cXh5RXhMaHY0MmJSZjJDc1cxd2JIOElqdWlrenUzWWFzeVV2cnQxcGcyblhzT3QzcHg3ZmNWdFJqeHc3ZVc5SGxPanZtZ25DRVFsQmhYNjI4PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=OG1hOAa72zbU10Rajz5hYJ7miAc%3d
+#EXTINF:-1 tvg-id="753" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Techy Kuldeep",MTV Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=7DycovFUtsF45qAdOZO1%2blTppLs%3d
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Techy Kuldeep",MTV HD Plus 
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZDQm5IemZwOUNzUTR3bEtNdVhWTGhOMmYwakpENHkxT196WmJlT3E5ZUlMd3RPemdPSk5rWGNyTWc4R203Ykt6LUdOR2dXUU1QUktMVHJGRmNiNnlraEhaYTlGaXhpTEF1MHdTbHRkaTVnZ0N6RU1nXzN4Y0FWRnRpM19BWTM3WG03SjZhZ1hvN2tMNFRyaHVVZWdNRWwxMUJ4WkpfQ29adWZjd1doemhkX0Rqb3pzc1BDYnJOS1l4bkhuRmlCYVNQdGo5eFpKVUhLWGlBWjFMUFUxUnYtbkppN0RZYWxiWl9xUVNBSDRpcDV1dWNhTS1BMG8xYk5WRUt5b3F4bVJyY1hhQTVIS2h6LU5wOTNQeGlMdzZjQnBkY0xSRUhGY0YtNnVXcEV4dVFFZmVzNG5uZFdIdzc5bDhEZTJCZU1jeXNuNzFVV1pSSmhWZ0t5Tm1Bdm1OS19SX3FFNzQ3eTJOZG91ZU5tcGs3MFNYcDNlTnZ2N1NIb3lub2xWN1dUc3RBPT0mY29udGV4dFR5cGU9bm9uZSZpZD04OTQ1MTM3IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6Im5pY2tqdW5pb3JfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkNCbkh6ZnA5Q3NRNHdsS011WFZMaE4yZjBqSkQ0eTFPX3paYmVPcTllSUx3dE96Z09KTmtYY3JNZzhHbTdiS3otR05HZ1dRTVBSS0xUckZGY2I2eWtoSFphOUZpeGlMQXUwd1NsdGRpNWdnQ3pFTWdfM3hjQVZGdGkzX0FZMzdYbTdKNmFnWG83a0w0VHJodVVlZ01FbDExQnhaSl9Db1p1ZmN3V2h6aGRfRGpvenNzUENick5LWXhuSG5GaUJhU1B0ajl4WkpVSEtYaUFaMUxQVTFSdi1uSmk3RFlhbGJaX3FRU0FINGlwNXV1Y2FNLUEwbzFiTlZFS3lvcXhtUnJjWGFBNUhLaHotTnA5M1B4aUx3NmNCcGRjTFJFSEZjRi02dVdwRXh1UUVmZXM0bm5kV0h3NzlsOERlMkJlTWN5c243MVVXWlJKaFZnS3lObUF2bU5LX1JfcUU3NDd5Mk5kb3VlTm1wazcwU1hwM2VOdnY3U0hveW5vbFY3V1RzdEE9PSIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=NuLHx8kpTBbEyiPFZ%2fx%2fMY9oL70%3d
+#EXTINF:0 tvg-id="544" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Techy Kuldeep",Nick Junior
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ab2U%2boSAcTncBH%2bzdMayvCtpm7w%3d
+#EXTINF:-1 tvg-id="1226" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Techy Kuldeep",Nick HD+ 
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgzMzYzMDIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoic29uaWNfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkZ5M1ptcE5KWFd5SmFqeDI1RE1QUlg3UkxKdnZRMTM0ZV95YVZoUzU3RGJCMms3b2lNRzZaVWtPZUwwSkNFT0NDR3pkamQzZmtpa25zVTdUM1dWa3ZuUHJuUUdRcVNqM2I5WGVfWW5VQ19KWHVxQVpoMXpaeWlncHpNcHJRYUtwTmM4R3gyRGdyZFBmWk1Qdmh2enlZeTJEa1N2U1d5amlyR2NsM1drLVZST0NvZ0RLeC10WERXV2RqY0hHNm1SMjZrX0xQMmI3MTQwMm1IX0xMX2VncDZIMVpyOWFVN2RFcGV5MGNrQjhDVER4QS02aFBWYnJzYXBJSEkxb05DZEJNWV9oMVNuVF85dEpJaXVlVjVNOWtUS2dWTk9qTHgzWHlYMlB1R0NLdWNsZDExbDFFakdNdldCRFhmaVJ6QkRLTmVrdnVpZ2Nwd2VZZ3hqQ0xCcG5QeENpdjhlaWhqQ05yTVpDanN0NFg3X1h6ZEkyWU9uMXlNV040VHpFNTJmZjBSa1BfM2N3VndGOWJHVEJmS2c4RXVjU2JEbWg2ZXdIVDhaMENYYVlvRnhQUERHNFJOVnRVMlBoSnNqNExfeGxHY3h3bTFYRlJpZERBVEJUMjAtTzB1Z0w4WHprVHA0bDVtOS1vdlRQeW1yIiwidWRpZCI6IjJhM2IwZTVjZDAzNjQ3Y2NhNGEyN2NjNjcyNWM1MjY2IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=urCKvCdMXbH2BNLVZZnza3iczVE%3d
+#EXTINF:0 tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Techy Kuldeep",Sonic Hindi
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+
+
+#EXTINF:0 group-title="Techy Kuldeep",Star Bharat
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Star Plus
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Sony Sab
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+
+
+#EXTINF:0 tvg-id="STAR MOVIES HD" group-title="Techy Kuldeep",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:0 tvg-id="COLORS HD" group-title="Techy Kuldeep",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
+#EXTINF:0 tvg-id="SONY HD" group-title="Techy Kuldeep",Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
+#EXTINF:0 tvg-id="GEO HD" group-title="Techy Kuldeep",GEO HD
+http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
+#EXTINF:0 tvg-id="HUM HD" group-title="Techy Kuldeep",Hum HD 
+http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
+#EXTINF:0 tvg-id="URDU 1" group-title="Techy Kuldeep",URDU 1
+http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
+#EXTINF:0 tvg-id="GEO SUPER" group-title="Techy Kuldeep",Geo Super
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:0 tvg-id="ZEE TV HD" group-title="Techy Kuldeep",Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
+#EXTINF:0 tvg-id="24 NEW HD" group-title="Techy Kuldeep",24 News HD
+http://221.120.204.4/24-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="HUM NEWS" group-title="Techy Kuldeep",Hum News
+http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="GTV NEWS" group-title="Techy Kuldeep",GTV News
+http://221.120.204.4/GTV-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="LAHORE RANG" group-title="Techy Kuldeep",Lahore Rang
+http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="PTV SPORTS" group-title="Techy Kuldeep",PTV Sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="A SPORTS" group-title="Techy Kuldeep",A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
+
+#EXTINF:0 tvg-id="DD SPORTS" tvg-logo="https://s7.postimg.cc/4d7wl7b6j/Screenshot_20180516-053849_1.jpg" group-title="Techy Kuldeep",DD Sports
+https://idvd.multitvsolution.com:443/idvo/ddsports.m3u8
+#EXTINF:0 tvg-id="IBC 24" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="Techy Kuldeep",IBC 24 
+https://idvd.multitvsolution.com:443/idvo/ibc24.m3u8
+#EXTINF:0 tvg-id="DANGAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="Techy Kuldeep",Dangal
+https://itvoign.multitvsolution.com/idvo/dangal.m3u8
+#EXTINF:0 tvg-id="INDIA NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png" group-title="Techy Kuldeep",India News
+https://itvoign.multitvsolution.com/hls/inkhabar.m3u8
+#EXTINF:0 tvg-id="DD KASHIR" tvg-logo="https://pbs.twimg.com/profile_images/1024987197932486656/E2JJfZuJ_400x400.jpg" group-title="Techy Kuldeep",DD Kashir
+https://itvoign.multitvsolution.com/idvo/ddkashir.m3u8
+#EXTINF:0 tvg-id="MANORANJAN TV" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Tt3HO3dS.png" group-title="Techy Kuldeep",Manoranjan TV
+https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
+#EXTINF:0 tvg-id="NEWS X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewsX_Logo.png/320px-NewsX_Logo.png" group-title="Techy Kuldeep",News X
+https://itvoign.multitvsolution.com/hls/newsx.m3u8
+#EXTINF:0 tvg-id="B4U KADAK" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png" group-title="Techy Kuldeep",B4U Kadak
+https://itvoign.multitvsolution.com/idvo/moviehouse.m3u8
+#EXTINF:0 tvg-id="WOW CINEMA ONE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cC7fnk8i.png" group-title="Techy Kuldeep",Wow Cinema one
+https://itvoign.multitvsolution.com/idvo/wowcinema.m3u8
+#EXTINF:0 tvg-id="DD ASSAM" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zjXFFpZp.png" group-title="Techy Kuldeep",DD Assam
+https://itvoign.multitvsolution.com/idvo/ddnortheast.m3u8
+#EXTINF:0 tvg-id="BIXFLIX MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OzLvAT5S.png" group-title="Techy Kuldeep",Bflix Movies
+https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
+#EXTINF:0 tvg-id="MAHA MOVIE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dgk8ZJp1.png" group-title="Techy Kuldeep",Maha Movie
+https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
+#EXTINF:0 tvg-id="ENTERR 10 MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Enterr10-Movies.jpg" group-title="Techy Kuldeep",Dangal 2
+https://itvoign.multitvsolution.com/idvo/enterr10movies.m3u8
+#EXTINF:0 tvg-id="DD RETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png" group-title="Techy Kuldeep",DD Retro
+https://idvd.multitvsolution.com/idvo/ddretro.m3u8
+
+
+#EXTINF:0 tvg-id="STAR PLUS HD" group-title="Techy Kuldeep",Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="STAR PLUS HD" group-title="Techy Kuldeep",Star Plus HD 
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:0 tvg-id="ZEE TV HD" group-title="Techy Kuldeep",Zee TV 
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:0 tvg-id="ZEE TV HD" group-title="Techy Kuldeep",Zee TV HD 
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF:0 tvg-id="COLORS HD" group-title="Techy Kuldeep",Colors HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:0 tvg-id="COLORS HD" group-title="Techy kuldeep",Colors HD
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8 
+#EXTINF:0 tvg-id="SAHARA ONE" group-title="Techy Kuldeep",Sahara One
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8 
+#EXTINF:0 tvg-id="UTV HD" group-title="Techy Kuldeep",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="STAR GOLD HD" group-title="Techy Kuldeep",Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="STAR GOLD HD" group-title="Techy Kuldeep",Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="STAR GOLD 2" group-title="Techy Kuldeep",Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ZEE CINEMA HD" group-title="Techy Kuldeep",Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ZEE CLASSIC" group-title="Techy Kuldeep",Zee Classic
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ZEE ACTION" group-title="Techy Kuldeep",Zee Action
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ZEE ANMOL CINEMA" group-title="Techy Kuldeep",Zee Anmol Cinema
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="SONY MAX 2" group-title="Techy Kuldeep",Sony Max 2 
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="B4U MOVIES" group-title="Techy Kuldeep",B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="E24" group-title="Techy Kuldeep",E24
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="B4U MUSIC" group-title="Techy Kuldeep",B4U Music
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ZOOM" group-title="Techy Kuldeep",Zoom
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="MTV" group-title="Techy Kuldeep",MTV HD
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="MTV BEATS HD" group-title="Techy Kuldeep",MTV Beats HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 group-title="Techy Kuldeep",Aaj tak
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",India today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",News 24 Hindi
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Movie Sphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Stirr Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Pitara
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",ABP Ananda 
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",ABP Asmita 
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",ABP Majha 
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Anjan 
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Ayush TV 
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",B4U Kadak 
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u
+#EXTINF:0 group-title="Techy Kuldeep",Boogle Bollywood 
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Channel Win 
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Channel Y 
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Cine Voice 
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",CNBC Awaaz
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",DD National 
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",DD Sports 
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Desi Plus 
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Fastway News
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Gaunda Punjab TV 
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",GurSikh Sabha TV
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",India Today 
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Janta TV 
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Jeevan TV 
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Jhanjar Music 
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Jonack TV 
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Lok Sabha TV 
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MN TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MH1 Music 
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MH1 Prime 
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",NDTV 24X7 
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",NDTV India 
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",News18 North East
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Pratidin Time 
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Puthuyugam TV 
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Sardari TV 
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Shemaroo Punjabi TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Shraddha
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Shubhsandesh 
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",TAG TV 
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",TAG TV
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Times Now HD 
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",AajTak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Akaal TV
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Techy Kuldeep",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Techy Kuldeep",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Channel Win
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MAQ TV
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Techy Kuldeep",Flowers TV 
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Gaunda Punjab TV
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Jeevan TV
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Jonack TV
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kanak News
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kasthuri TV
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="Techy Kuldeep",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MH1 Prime
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Pramaya News7
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Pratidin Time
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Fazal Television
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Reporter TV
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Shubhsandesh
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Tamil Vision International HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Ekusey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",7S Music 
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Aathavan TV HD
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Akaram Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MK Six 
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",MK TV 
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Santhora Short Flim 
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Tamil Vision International 
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:0 group-title="Techy Kuldeep",Velicham 
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
+
+
