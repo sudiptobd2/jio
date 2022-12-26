@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 ,News 18 India
-https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=IBN_7&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+#EXTINF:-1 ,News 18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_98835_eng=98800-video=863200.m3u8?__hdnea__=st=1672066950~exp=1672153350~acl=/*~hmac=fbf5d366ec27d2679e7f854f76dd35e021fabb81fe2d3bef16b884391422d26a
 #EXTINF:-1 ,India TV
 https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=India_TV&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
 #EXTINF:-1 ,NDTV India
 https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=NDTV_India&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
 #EXTINF:-1 ,Zee News
-https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Zee_News&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzIwNzAxNDZ9.18TJieZIrjTB_skQULl7c9VM7zttt1sWMgAWIgq0Pk8
 #EXTINF:-1 ,AajTak
-https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Aaj_Tak&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
-#EXTINF:-1 ,NDTV GoodTimes
-https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=NDTV_Good_Times&q=1200&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 ,Good News Today
+https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 ,Times Now Navbharat
 https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Times_Now_Navbharat&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
 #EXTINF:-1 ,Times NOW
 https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Times_NOW&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
 #EXTINF:-1 ,ABP News India
-https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=ABP_News_India&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 ,ABP Ananda
-http://noobbro.xyz/Zioo/live.php?c=ABP_Ananda&q=1200&e=.m3u8
+https://abpmitv.akamaized.net/hls/live/2042839/ananda/master_360p.m3u8
 #EXTINF:-1 ,ZEE 24 Ghanta TV
-http://noobbro.xyz/Zioo/live.php?c=24_Ghanta_TV&q=800&e=.m3u8
+https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_10.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzIwNzAyMjN9.CAj9HPANVpS0ZKjNg9lwiwqWccz-WHOXQvDCkBI4QpA
 #EXTINF:-1 ,News 24
-http://noobbro.xyz/Zioo/live.php?c=News_24&q=800&e=.m3u8
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 ,Aakaash bangla
 http://noobbro.xyz/Zioo/live.php?c=Aakaash_bangla&q=1200&e=.m3u8
 #EXTINF:-1 ,TV9 Bharatvarsha
-https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=TV9_Bharatvarsh&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_360p/chunks.m3u8
 #EXTINF:-1 ,TV9 Bangla
-https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=TV9_Bangla&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
+https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_360p/chunks.m3u8
 #EXTINF:-1 , Republic tv
 https://0650-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/live.php?c=Republic_TV&q=800&JOIN-US-ON-TELEGRAM@STREAM_KING_LIVE&e=.m3u8
