@@ -38,6 +38,6 @@ http://noobbro.xyz/Zioo/live.php?c=IBN_7&q=1200&e=.m3u8
 #EXTINF:-1 , STARJALSHA
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/198748
 #EXTINF:-1 , STAR JALSA HD
-http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/69322
-#EXTINF:-1 , GOLDMINES
-http://208.86.19.13:81/7211.stream/index.m3u8
+http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
+#EXTINF:-1 , Zee Bangla
+http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
