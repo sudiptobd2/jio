@@ -40,4 +40,4 @@ http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/198748
 #EXTINF:-1 , STAR JALSA HD
 http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
 #EXTINF:-1 , Zee Bangla
-http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
+https://z5ak-live.zee5.com/out/v1/9616200b22e049a8947aae755487d289/hdntl=exp=1672756521~acl=%2f*~data=hdntl~hmac=e07bbeb1e9599850ba7e817a593576688a17e022f7f2ec6c5990d8f3b683376b/index_41.m3u8?hdnts=st=1672668619~exp=1672671619~acl=/out/v1/9616200b22e049a8947aae755487d289/index.m3u8*~hmac=5ab449c75afedb3dc33a62b834e712ba3271c46c78b9c25bb3665251e6cca395
